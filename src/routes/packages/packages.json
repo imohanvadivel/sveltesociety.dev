@@ -1,5 +1,18 @@
 [
 	{
+	"title": "figblocks",
+	"url": "https://figblocks.mohanvadivel.com",
+	"repository": "https://github.com/imohanvadivel/figblocks",
+	"description": "A UI component library for building Figma plugins with svelte.",
+	"npm": "figblocks",
+	"categories": [
+		"ui-components",
+		"design-system",
+		"forms-and-input",
+		"user-interaction"
+		]
+	},
+	{
 		"title": "virtue-ui",
 		"url": "https://github.com/virtueorg/ui",
 		"repository": "https://github.com/virtueorg/ui",
